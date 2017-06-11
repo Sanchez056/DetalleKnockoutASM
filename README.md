@@ -1,0 +1,2 @@
+# DetalleKnockoutASM
+el Detalle
